@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "TurnOffMonitorForCommandPalette (Package)": {
+      "commandName": "MsixPackage",
+      "doNotLaunchApp": true
+    },
+    "TurnOffMonitorForCommandPalette (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
